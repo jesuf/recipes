@@ -1,0 +1,8 @@
+Ingredients:
+ - spaggetti
+ - mushrooms
+
+Directions:
+ 1. Cut the mushrooms.
+ 2. Cook the spaggetti and add the mushrooms.
+ 
